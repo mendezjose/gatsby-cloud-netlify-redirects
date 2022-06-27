@@ -1,5 +1,5 @@
 [[redirects]]
-from = "/blog/*"
-to = "https://visier-gatsby-blog.netlify.app/blog/:splat"
-status = 200
+from = "/blog"
+to = "https://www.visier.com/blog"
+status = 301
 force = true
