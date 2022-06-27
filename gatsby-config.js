@@ -27,6 +27,5 @@ module.exports = {
       },
       __key: 'images',
     },
-    `gatsby-plugin-gatsby-cloud`,
   ],
 };
