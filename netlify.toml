@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/blog/*"
+to = "https://visier-gatsby-blog.netlify.app/blog/:splat"
+status = 200
+force = true
